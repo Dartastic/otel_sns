@@ -1,0 +1,23 @@
+name: otel_sns
+description: OpenTelemetry bridge for AWS SNS (Publish to topic / SMS / email subscribers).
+version: 0.1.0-beta.1-wip
+repository: https://github.com/dartastic/otel_sns
+homepage: https://dartastic.io
+publish_to: https://pubdev.dartastic.io
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  dartastic_opentelemetry: ^1.1.0-beta.5
+  dartastic_opentelemetry_api: ^1.0.0-beta.6
+
+dev_dependencies:
+  dart_flutter_team_lints: ^3.5.2
+  test: ^1.26.3
+
+dependency_overrides:
+  dartastic_opentelemetry:
+    path: /Users/mbushe/dev/dartastic/dartastic_opentelemetry
+  dartastic_opentelemetry_api:
+    path: /Users/mbushe/dev/dartastic/dartastic_opentelemetry_api
