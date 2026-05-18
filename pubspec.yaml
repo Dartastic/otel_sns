@@ -3,7 +3,7 @@ description: OpenTelemetry bridge for AWS SNS (Publish to topic / SMS / email su
 version: 0.1.0-beta.1-wip
 repository: https://github.com/dartastic/otel_sns
 homepage: https://dartastic.io
-publish_to: https://pubdev.dartastic.io
+publish_to: https://pub.dartastic.io
 
 environment:
   sdk: ^3.0.0
