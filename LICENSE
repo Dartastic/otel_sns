@@ -1,201 +1,193 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+DARTASTIC PRO SOFTWARE LICENSE AGREEMENT
+========================================
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+Effective Date: 2026-05-18
+Licensor: Mindful Software LLC d/b/a Dartastic.io, a Delaware limited
+liability company ("Dartastic", "Licensor", "we", "us"). The
+governing-law state and other defaults below are interim and subject
+to legal review.
+Licensee: the individual or legal entity that has been granted access
+to the Dartastic Pro private package registry ("Licensee", "you").
+Software: the Dartastic Pro Dart/Flutter library packages distributed
+via `https://pub.dartastic.io` and any documentation, configuration,
+data files, and updates Licensor makes available with them
+(the "Software").
 
-   1. Definitions.
+By downloading, installing, depending on, or otherwise using the
+Software, you agree to this Agreement. If you are using the Software
+on behalf of an organization, you represent that you have authority
+to bind that organization, and "Licensee" includes that organization.
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+---
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+1. GRANT OF LICENSE
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+Subject to Licensee's continued compliance with this Agreement and
+payment of applicable fees, Licensor grants Licensee a non-exclusive,
+non-transferable, non-sublicensable, revocable license, during the
+subscription term, to:
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+  (a) download and install the Software solely from the Dartastic Pro
+      private package registry at `https://pub.dartastic.io`;
+  (b) use the Software, in source or compiled form, internally
+      within Licensee's organization;
+  (c) embed the Software (in compiled or obfuscated form) into
+      Licensee's own applications and distribute those applications
+      to Licensee's end users, provided Licensee complies with
+      Section 3 (Restrictions).
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+The Software is licensed, not sold. Licensor retains all right,
+title, and interest in and to the Software, including all
+intellectual property rights.
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+2. SCOPE OF USE
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+Licensee's use of the Software is limited to the seat count, tier,
+or other quantity specified in Licensee's active subscription with
+Licensor.
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+3. RESTRICTIONS
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+Except as expressly permitted in Section 1, Licensee shall NOT, and
+shall not permit any third party to:
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+  (a) copy, modify, fork, port, translate, or create derivative
+      works from the Software except to the extent strictly
+      necessary to use the Software as licensed;
+  (b) sublicense, sell, rent, lease, lend, distribute, publish, or
+      otherwise make the source code of the Software available to
+      any third party, including by posting any portion of the
+      source to a public repository, package registry, gist, paste
+      service, or training corpus;
+  (c) remove, alter, or obscure any copyright, trademark, or other
+      proprietary notice contained in or on the Software;
+  (d) reverse engineer, disassemble, or decompile the Software,
+      except to the extent applicable law prohibits this
+      restriction and Licensee has first given Licensor written
+      notice and a reasonable opportunity to provide the
+      interoperability information itself;
+  (e) use the Software to develop, train, evaluate, or improve a
+      competing product or service;
+  (f) bypass or attempt to bypass any authentication, rate-limit,
+      licensing, or telemetry mechanism in the Software or in the
+      Dartastic Pro registry;
+  (g) use the Software in violation of applicable law, including
+      export-control, sanctions, and privacy law.
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
+4. OWNERSHIP AND FEEDBACK
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
+The Software is proprietary to Licensor. Licensee acquires no rights
+in the Software other than the limited license granted in Section 1.
 
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
+If Licensee provides Licensor with suggestions, bug reports, or
+other feedback ("Feedback"), Licensee grants Licensor a perpetual,
+irrevocable, royalty-free, worldwide license to use that Feedback
+for any purpose without obligation to Licensee.
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+5. CONFIDENTIALITY
 
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
+The unobfuscated source code of the Software and any non-public
+documentation provided with it ("Confidential Information") is the
+confidential and trade-secret information of Licensor. Licensee
+shall:
 
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+  (a) use Confidential Information only as needed to exercise the
+      rights granted in Section 1;
+  (b) protect Confidential Information with at least the same
+      degree of care it uses for its own confidential information,
+      and in no event less than reasonable care;
+  (c) restrict access to Confidential Information to employees and
+      contractors who need it to perform their duties and who are
+      bound by written confidentiality obligations at least as
+      protective as this Section.
 
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
+The obligations in this Section survive termination for five (5)
+years or until the Confidential Information becomes publicly
+available through no fault of Licensee, whichever occurs first.
 
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
+6. FEES AND TERM
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
+Licensee shall pay all subscription fees specified in the order
+form, invoice, or self-service checkout that authorized Licensee's
+access to the Software. Failure to pay terminates the license
+under Section 8.
 
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for describing the origin of the Work and
-      reproducing the content of the NOTICE file.
+The license term begins on the Effective Date and continues for
+the subscription period purchased, renewing automatically unless
+either party cancels per the renewal terms in the order form.
 
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
+7. UPDATES AND SUPPORT
 
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
+Licensor may, but is not required to, provide updates, upgrades,
+bug fixes, and new versions of the Software during the term.
+Support is provided per the support level (if any) specified in
+Licensee's subscription.
 
-   9. Accepting Warranty or Support. While redistributing the Work or
-      Derivative Works thereof, You may choose to offer, and charge a
-      fee for, acceptance of support, warranty, indemnity, or other
-      liability obligations and/or rights consistent with this License.
-      However, in accepting such obligations, You may act only on Your
-      own behalf and on Your sole responsibility, not on behalf of any
-      other Contributor, and only if You agree to indemnify, defend, and
-      hold each Contributor harmless for any liability incurred by, or
-      claims asserted against, such Contributor by reason of your accepting
-      any such warranty or support.
+8. TERMINATION
 
-   END OF TERMS AND CONDITIONS
+Either party may terminate this Agreement on written notice if
+the other party materially breaches it and does not cure the
+breach within thirty (30) days of receiving notice. Licensor may
+also terminate immediately, without cure, if Licensee:
 
-   APPENDIX: How to apply the Apache License to your work.
+  (a) fails to pay any fee when due;
+  (b) breaches Section 3 (Restrictions) or Section 5
+      (Confidentiality);
+  (c) becomes insolvent, files for bankruptcy, or assigns assets
+      for the benefit of creditors.
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+On termination, Licensee shall immediately stop using the Software,
+remove it from all Licensee systems and applications, and destroy
+or return all copies of Confidential Information. Sections 3, 4,
+5, 9, 10, 11, and 12 survive termination.
 
-   Copyright 2025 Mindful Software LLC
+9. DISCLAIMER OF WARRANTIES
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT
+WARRANTY OF ANY KIND, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING
+WITHOUT LIMITATION ANY IMPLIED WARRANTY OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT.
+LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE
+UNINTERRUPTED OR ERROR-FREE.
 
-       http://www.apache.org/licenses/LICENSE-2.0
+10. LIMITATION OF LIABILITY
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-   implied. See the License for the specific language governing
-   permissions and limitations under the License.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT WILL LICENSOR'S
+TOTAL LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT EXCEED
+THE FEES PAID BY LICENSEE TO LICENSOR IN THE TWELVE (12) MONTHS
+IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE LIABILITY.
+LICENSOR WILL NOT BE LIABLE FOR ANY LOST PROFITS, LOST REVENUE,
+LOST DATA, LOSS OF GOODWILL, OR ANY INDIRECT, INCIDENTAL,
+CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, EVEN IF LICENSOR HAS
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+11. GOVERNING LAW AND VENUE
+
+This Agreement is governed by the laws of the State of Delaware,
+without regard to its conflict-of-laws principles. Any dispute
+arising out of or related to this Agreement shall be brought
+exclusively in the state or federal courts located in New Castle
+County, Delaware, and each party consents to the personal
+jurisdiction of those courts.
+
+12. GENERAL
+
+This Agreement is the entire agreement between the parties about
+the Software and supersedes all prior or contemporaneous
+agreements. Failure to enforce any provision is not a waiver. If
+any provision is held unenforceable, the remainder remains in
+effect. Licensee may not assign this Agreement without Licensor's
+prior written consent; Licensor may assign freely. Notices must
+be in writing to the email or address listed in Licensee's
+subscription record.
+
+Trademark notice: "Dartastic", the Dartastic logo, and "Dartastic
+Pro" are trademarks of Mindful Software LLC d/b/a Dartastic.io.
+The OpenTelemetry name and logo are trademarks of the Cloud Native
+Computing Foundation and are used to indicate compatibility, not
+affiliation.
+
+---
+
+Copyright (c) 2025-2026 Mindful Software LLC d/b/a Dartastic.io.
+All rights reserved.
