@@ -1,6 +1,6 @@
 name: otel_sns
 description: OpenTelemetry bridge for AWS SNS (Publish to topic / SMS / email subscribers).
-version: 0.1.0-beta.1
+version: 0.1.0-beta.2-wip
 repository: https://github.com/dartastic/otel_sns
 homepage: https://dartastic.io
 publish_to: https://pub.dartastic.io
